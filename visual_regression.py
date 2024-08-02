@@ -42,9 +42,9 @@ def vr(img1, img2, per_diff=0.1, pix_diff=100):
     # small dot gives = 193
     # identical has mismatch = 6867
     if num_pixels > pix_diff:
-        print(f"!!! Images not equal: {num_pixels}px difference")
+        print(f"❌ Images not pixel equal: {num_pixels}px difference")
     if percentage_diff > per_diff:
-        print(f"!!! Images not equal: {round(percentage_diff,2)}% difference")
+        print(f"❌ Images not percent equal: {round(percentage_diff,2)}% difference")
 
     img_diff.save(f"./diff_pixelmatch_{img1}__v__{img2}_{randint(1000, 9999)}.png")
 
