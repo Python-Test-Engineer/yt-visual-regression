@@ -9,5 +9,7 @@ Given two images screenshot-1.jpg and screenshot-2.jpg, `visual_regression.py` w
 
 ![output](./_images/output.png)
 
-For a test, we can set levels of difference either by pixels or percentage:
+https://github.com/whtsky/pixelmatch-py
+
+https://pypi.org/project/pixelmatch/
 
