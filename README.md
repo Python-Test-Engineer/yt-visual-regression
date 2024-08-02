@@ -1,5 +1,22 @@
 # Visual Regression
 
+
+## Links
+
+https://github.com/whtsky/pixelmatch-py
+
+https://pypi.org/project/pixelmatch/
+
+https://playwright.dev/python/docs/screenshots
+
+## YouTube
+
+## Cookbook
+
+pytest-cookbook.com/
+
+## Info
+
 Given two images screenshot-1.jpg and screenshot-2.jpg, `visual_regression.py` will produce two images:
 
 - `diff__pil_screenshot-1.jpg__v__screenshot-2.jpg_1288.png` shows highlights difference.
@@ -8,9 +25,3 @@ Given two images screenshot-1.jpg and screenshot-2.jpg, `visual_regression.py` w
 `visual_regrssion.py` is customisable and outputs the following:
 
 ![output](./_images/output.png)
-
-https://github.com/whtsky/pixelmatch-py
-
-https://pypi.org/project/pixelmatch/
-
-https://playwright.dev/python/docs/screenshots
