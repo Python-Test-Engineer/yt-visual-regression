@@ -13,3 +13,4 @@ https://github.com/whtsky/pixelmatch-py
 
 https://pypi.org/project/pixelmatch/
 
+https://playwright.dev/python/docs/screenshots
