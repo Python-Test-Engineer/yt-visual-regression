@@ -13,7 +13,11 @@ https://playwright.dev/python/docs/screenshots
 
 ## Cookbook
 
-pytest-cookbook.com/
+[https://pytest-cookbook.com/toolbox/visual_regression/](https://pytest-cookbook.com/toolbox/visual_regression/)
+
+## YouTube
+
+[https://www.youtube.com/watch?v=wMjsrsQK3hs](https://www.youtube.com/watch?v=wMjsrsQK3hs)
 
 ## Info
 
